@@ -1,6 +1,6 @@
 # 🧠 Simple Artificial Neuron  
 Basit bir yapay nöronun sıfırdan (hiçbir ML kütüphanesi olmadan) nasıl inşa edilip eğitildiğini gösteren mikro proje.  
-Kod tamamen elle yazılmıştır — ileri yayılım (forward pass), geri yayılım (backpropagation) ve gradyan inişi (gradient descent) adımlarının nasıl çalıştığını doğrudan görürsün.
+ — ileri yayılım (forward pass), geri yayılım (backpropagation) ve gradyan inişi (gradient descent) adımlarının nasıl çalıştığını doğrudan görürsün.
 
 ---
 
